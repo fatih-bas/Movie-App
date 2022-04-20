@@ -8,13 +8,15 @@
  ``` 
   API 
  
-  featured: "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=3c517892331a735aa3dae9ab8db39faa&page=1"
+  featured: "https://api.themoviedb.org"
   
   images: "https://image.tmdb.org/t/p/w500/"
-  
-  search: "https://api.themoviedb.org/3/search/movie?&api_key=3c517892331a735aa3dae9ab8db39faa&query="
   
   ```
   
   ## Live
   https://movie-app-111.netlify.app/
+  
+  <br>
+  
+![sss-compressed](https://user-images.githubusercontent.com/47625725/164322390-dc129b7e-2677-47ed-8688-aac0303c0189.png)
